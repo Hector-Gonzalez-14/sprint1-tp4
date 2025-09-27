@@ -1,0 +1,14 @@
+{
+  "name": "superheroes-api",
+  "version": "1.0.0",
+  "description": "API de superhéroes con Express y arquitectura MVC",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
